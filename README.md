@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenn</h1>
-<h3 align="center">An enthusiastic software developer with a love of learning new things. I'm a native English speaker, but I'm also fluent in GIFs and movie quotes.</h3>
+<h3 align="center">I'm a software developer with an insatiable appetite for learning new things. When I'm not devouring new study content, I enjoy logic puzzles, reading, and belting out 90s jams at karaoke. I'm a native English speaker, but I'm also fluent in GIFs and movie quotes.</h3>
 
 - 🌱 I’m currently learning: **Flask, Typescript**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **jenniferstephens.contact@gmail.com**
 
-- ⚡ Fun fact: **I have been known to study a new programming language or learn to use a framework just so that I could understand and laugh at its memes.**
+- ⚡ Fun fact: **I have been known to study a new programming language or framework just so that I could understand and laugh at its memes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
